@@ -88,3 +88,12 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+.toggle-completed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #c2bcbc;
+    font-size: 12px;
+    font-weight: lighter;
+}
