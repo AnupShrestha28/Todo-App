@@ -1,4 +1,4 @@
-// Dom elements
+// DOM elements
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
